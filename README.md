@@ -1,2 +1,2 @@
-# Documenta-o---GitHub-Descomplicado
-Dcomentação do Curso GitHub Descomplicado: da Teoria à Prática
+# Documentação GitHub Descomplicado
+Documentação do Curso GitHub Descomplicado: da Teoria à Prática
