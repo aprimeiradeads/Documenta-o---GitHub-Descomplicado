@@ -67,13 +67,13 @@ nav:
     - Introduction:
         - Welcome: index.md
     - Aula 1: 
-        - Introdução: aula01/introducao.md
+        - Introdução ao Git e GitHub: aula01/introducao.md
     - Aula 2: 
         - Introdução: aula02/introducao.md
     - Aula 3: 
         - Introdução: aula03/introducao.md
     - Aula 4: 
-        - Introdução: aula04/introducao.md
+        - GitHub Pages: aula04/introducao.md
 
 markdown_extensions:
     - md_in_html
