@@ -2,7 +2,7 @@
 
 O curso GitHub Descomplicado é um projeto de extensão oferecido pela turma 4A do curso de Análise e Desenvolvimento de Sistemas do IFSul de Sapucaia.
 
-[!Folder](folder.png)
+![Folder](folder.png)
 
 Você pode nos conhecer melhor através do instagram [@aprimeirdadeads]().
 
