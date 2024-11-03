@@ -10,6 +10,11 @@ Abaixo, veja os professores e moderadores responsáveis por essa aula:
 |Professora|![Michelle](./img/michelle.jpeg)| Michelle |
 |Moderadores|![Moderadores](./img/mod.png)| Diego, Eduardo e Nicoly|
 
+**Ferramentas Necessárias para a Aula**
+
+- Computador/Notebook;
+- Internet.
+
 ## O que é controle de versão?
 
 Controle de versão é um sistema que registra alterações no desenvolvimento de software, permitindo que a equipe acesse o histórico de versões anteriores, recupere versões específicas e entenda mudanças feitas por outros. 
@@ -96,7 +101,7 @@ Assista [este vídeo]() com o passo a passo.
 
 ## De quais formas eu posso utilizar o GitHub
 
-Existem várias ferramentas que permitem 
+Existem várias ferramentas diferentes que permitem a interação com o GitHub...
 
 
 
