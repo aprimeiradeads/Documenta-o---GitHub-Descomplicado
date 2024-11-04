@@ -64,10 +64,11 @@ theme:
           accent: lime
 
 nav:
-    - Introduction:
-        - Welcome: index.md
-    - Aula 1: 
-        - Introdução ao Git e GitHub: aula01/introducao.md
+    - Introdução:
+        - Curso GitHub Descomplicado: index.md
+    - Introdução ao Git e GitHub: 
+        - Apresentação da Aula: aula01/apresentacao.md
+        - Conteúdo: aula01/conteudo.md
     - Aula 2: 
         - Introdução: aula02/introducao.md
     - Aula 3: 
