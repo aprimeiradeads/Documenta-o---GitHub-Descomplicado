@@ -80,9 +80,9 @@ Enquanto o Git é uma **ferramenta de controle de versão local**, o GitHub é u
 
 ## Organizando e Instalando as Ferramentas Necessárias
 
-Durante curso iremos utilizar algumas aplicações e, nesta etapa da aula, iremos instala-las e realizar os passos necessários para o nosso uso.
+Durante curso iremos utilizar algumas ferramentas e, nesta etapa da aula, iremos instala-las e realizar os passos necessários para prepará-las para a nossa utilização.
 
-Assim, reproduza os passos a passos abaixo na sua máquina para estar preparado para as nossas próximas aulas! <3
+Assim, reproduza os passos abaixo na sua máquina para estar preparado para as nossas próximas aulas! <3
 
 ### Criando uma conta no GitHub
 
@@ -90,15 +90,15 @@ Clique [neste link](https://docs.github.com/pt/get-started/start-your-journey/cr
 
 ### Instalando o Git
 
-Assista [este vídeo]() com o passo a passo.
+Assista [este vídeo](https://youtu.be/2F7UqUwk53E) com o passo a passo.
 
 ### Instalando o VSCode
 
-Assista [este vídeo]() com o passo a passo.
+Assista [este vídeo](https://youtu.be/ewL0feq7UQs) com o passo a passo.
 
 ### Instalando o GitHub Desktop
 
-Assista [este vídeo]() com o passo a passo.
+Assista [este vídeo](https://youtu.be/lZ-JQhMETho) com o passo a passo.
 
 ## De quais formas eu posso utilizar o GitHub
 
