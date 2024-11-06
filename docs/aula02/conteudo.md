@@ -88,3 +88,57 @@ Quando você executa git push, o Git:
 !!! info
 
     É importante lembrar que, para executar um git push, você precisa ter permissão para modificar o repositório remoto. Além disso, você deve estar sincronizado com as mudanças do remoto (por exemplo, usando git pull) para evitar conflitos.
+
+## Markdown
+
+Outra ferramenta que exploramos durante a aula é a linguagem de marcação Markdown.
+
+Essa linguagem permite adicionar formatação, links e imagens sem a necessidade de usar marcações mais complexas, como o HTML. 
+
+O Markdown é baseado em linguagens de marcação anteriores, como setext, Textile e reStructuredText. Foi criado pelo blogueiro de tecnologia John Gruber e pelo programador Aaron Swartz. 
+
+O Markdown é utilizado em vários sites, como o GitHub. Também é muito utilizada em arquivos do tipo README.
+
+Confira [este site](https://www.markdownguide.org/basic-syntax/) com algumas dicas com relação ao uso do Markdown.
+
+### README 
+
+Você pode adicionar um arquivo README ao seu repositório para informar outras pessoas por que seu projeto é útil, o que elas podem fazer com o projeto e como elas podem usá-lo.
+
+Este arquivo, junto com uma licença de repositório, um arquivo de citação, diretrizes de contribuição e um código de conduta, comunica as expectativas do projeto e ajuda você a gerenciar contribuições.
+
+Veja abaixo um exemplo de README e como ele fica no repositório:
+
+![README](./img/readme.png)
+
+Clique [aqui](https://github.com/aprimeiradeads/agile-project-3a) para ver o readme acima completo.
+
+!!! tip
+
+    Veja [este link do GitHub Docs](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) para saber mais detalhes sobre README.
+
+## Preparação para a GitHub Page
+
+Com o intuito de já irmos deixando tudo organizado para a nossa GitHub Page, precisamos realizar mais alguns passos.
+
+Nesta aula, iremos baixar o Python
+
+![Python](./img/python.png)
+
+!!! note
+
+    Na aula 4 iremos nos aprofundar no uso e explicação dessa ferramenta.
+
+Assim, siga os passos abaixo para realizar a instalação:
+
+1. Clique [neste link](https://www.python.org/downloads/) para ser redirecionado ao site do Python.
+
+2. Clique no botão abaixo da frase "Download the latest version for Windows", caso o seu sistema operacional seja Windows. Caso você possua outro sistema operacional, clique nos links fornecidos abaixo do botão e realize a instalação de acordo com o seu sistema.
+
+![Python 2](./img/python2.png)
+
+3. Após intalar o Python, utilize este comando no seu terminal:
+
+![Comando](./img/comando.png)
+
+Após este passo, você finalizou a instalação necessária! :)
