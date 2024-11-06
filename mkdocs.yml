@@ -69,8 +69,9 @@ nav:
     - Introdução ao Git e GitHub: 
         - Apresentação da Aula: aula01/apresentacao.md
         - Conteúdo: aula01/conteudo.md
-    - Aula 2: 
-        - Introdução: aula02/introducao.md
+    - Trabalhando com Repositórios: 
+        - Apresentação da Aula: aula02/apresentacao.md
+        - Conteúdo: aula02/conteudo.md
     - Aula 3: 
         - Introdução: aula03/introducao.md
     - Aula 4: 

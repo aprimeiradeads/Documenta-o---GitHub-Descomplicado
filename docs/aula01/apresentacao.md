@@ -4,9 +4,12 @@ O objetivo desta aula é introduzir o que é controle de versão e, em seguida, 
 
 | Papel | Apresentação | Nome |
 | ----- | ------------ | ---- |
-|Professora|![Bruna Boch](./img/bruna.jpeg)| Bruna Böch|
-|Professora|![Michelle](./img/michelle.jpeg)| Michelle |
-|Moderadores|![Moderadores](./img/moderadores.jpeg)| Eduardo, Diego e Nicoly|
+|Professora|![Bruna Boch](./img/bruna.jpeg)| [Bruna Böch](https://www.linkedin.com/in/bruna-rafaela-boch/) |
+|Professora|![Michelle](./img/michelle.jpeg)| [Michelle](https://www.linkedin.com/in/michelle-g-oliveira/) |
+|Moderadores|![Moderadores](./img/moderadores.jpeg)| [Eduardo](https://www.linkedin.com/in/eduardo-rigon/), [Diego](https://www.linkedin.com/in/diego-dexheimer-wiebbelling-b547641a3/) e [Nicoly](https://www.linkedin.com/in/nicoly-ribeiro04/)|
+
+!!! note
+    No nome de cada professor/moderador está o link para o LinkedIn deles, caso queiram se conectar <3 
 
 ### Ferramentas Necessárias
 
