@@ -1,3 +1,5 @@
+!!! example "[Clique aqui](https://youtu.be/kiTIJApIrvk) para acessar a gravação da aula Introdução ao Git e GitHub"
+
 ## O que é controle de versão?
 
 Controle de versão é um sistema que registra alterações no desenvolvimento de software, permitindo que a equipe acesse o histórico de versões anteriores, recupere versões específicas e entenda mudanças feitas por outros. 
