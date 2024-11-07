@@ -141,12 +141,16 @@ Assim, siga os passos abaixo para realizar a instalação:
 
 !!! tip
 
+    Para instalar a ferramenta da forma que precisamos, é importante que, na hora de instalar, a opção "Customize installation" seja selecionada.
+
+    ![Configuração](./img/config.png)
+
     Lembre-se de, durante a instalação, deixar as seguintes opções selecionadas:
     
     ![Configuração 1](./img/config1.png)
     ![Configuração 2](./img/config2.png)
 
-1. Após intalar o Python, utilize este comando no seu terminal:
+Após intalar o Python, utilize este comando no seu terminal:
 
 ![Comando](./img/comando.png)
 
