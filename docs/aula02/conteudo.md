@@ -1,3 +1,5 @@
+!!! example "[Clique aqui](https://youtu.be/yvHmuHQTkPs) para acessar a gravação da aula Trabalhando com Repositórios"
+
 ## Criando um Repositório
 
 Um repositório é o **elemento mais básico do GitHub**. É um lugar onde você pode armazenar seu código, seus arquivos e o histórico de revisão de cada arquivo. Os repositórios podem ter vários colaboradores e podem ser públicos, internos ou particulares. 
@@ -45,7 +47,7 @@ Quer saber mais sobre Fork e como isso pode ser feito? Acesse este [link do GitH
 
     Atenção! 
     
-    Durante a aula foi realizado um Fork de um repositório. Essa etapa foi importante pois criamos um novo repositório com arquivos que serão utilizados nas próximas aulas. Assim, caso tenha pardido esta aula ou não tenha conseguido acompanhar, assista a gravação que está disponível no início desta página.
+    Durante a aula foi realizado um Fork [deste repositório](https://github.com/aprimeiradeads/cursoextensao.github.io). Essa etapa foi importante pois criamos um novo repositório com arquivos que serão utilizados nas próximas aulas. Assim, caso tenha pardido esta aula ou não tenha conseguido acompanhar, assista a gravação que está disponível no início desta página.
 
 ### Fetch
 
@@ -111,7 +113,7 @@ Veja abaixo um exemplo de README e como ele fica no repositório:
 
 ![README](./img/readme.png)
 
-Clique [aqui](https://github.com/aprimeiradeads/agile-project-3a) para ver o readme acima completo.
+Clique [aqui](https://github.com/aprimeiradeads/agile-project-3a) para ver o README acima completo.
 
 !!! tip
 
@@ -137,7 +139,14 @@ Assim, siga os passos abaixo para realizar a instalação:
 
 ![Python 2](./img/python2.png)
 
-3. Após intalar o Python, utilize este comando no seu terminal:
+!!! tip
+
+    Lembre-se de, durante a instalação, deixar as seguintes opções selecionadas:
+    
+    ![Configuração 1](./img/config1.png)
+    ![Configuração 2](./img/config2.png)
+
+1. Após intalar o Python, utilize este comando no seu terminal:
 
 ![Comando](./img/comando.png)
 
