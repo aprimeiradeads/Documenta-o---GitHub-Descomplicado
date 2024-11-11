@@ -4,7 +4,7 @@ O objetivo desta aula é ensinar como trabalhar de forma colaborativa em reposit
 
 | Papel | Apresentação | Nome |
 | ----- | ------------ | ---- |
-|Professora|![Guilherme Xavier](./img/gui.jpeg)| [Guilherme Xavier](https://www.linkedin.com/in/guilherme-tamara/) |
+|Professora|![Guilherme Xavier](./img/gui.png)| [Guilherme Xavier](https://www.linkedin.com/in/guilherme-tamara/) |
 |Professora|![Matheus](./img/matheus.jpg)| [Matheus de Moraes](https://www.linkedin.com/in/matheusde-moraes/) |
 |Moderadores|![Moderadores](./img/moderadores.jpeg)| [Eduardo](https://www.linkedin.com/in/eduardo-rigon/), [Diego](https://www.linkedin.com/in/diego-dexheimer-wiebbelling-b547641a3/) e [Nicoly](https://www.linkedin.com/in/nicoly-ribeiro04/) |
 
