@@ -135,19 +135,19 @@ Esse processo é especialmente útil em projetos colaborativos e em código aber
 
     O colaborador cria uma branch separada para trabalhar em uma nova funcionalidade ou correção de bug.
 
-    git checkout -b feature/minha-nova-funcionalidade
+    `git checkout -b feature/minha-nova-funcionalidade`
 
 ??? example "2. Fazer Alterações e Commits:""
 
     O colaborador faz alterações no código e faz os commits necessários.
 
-    git commit -m "Implementa nova funcionalidade"
+    `git commit -m "Implementa nova funcionalidade"`
 
 ??? example "3. Enviar a Branch para o Repositório Remoto:"
 
     Quando estiver pronto, ele faz o push da branch para o repositório remoto.
 
-    git push origin feature/minha-nova-funcionalidade
+    `git push origin feature/minha-nova-funcionalidade`
 
 ??? example "4. Abrir um Pull Request:"
 
