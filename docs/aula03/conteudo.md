@@ -2,7 +2,7 @@
 
 O **Git Flow** é uma metodologia de gerenciamento de ramificações (branches) em projetos que utilizam o sistema de controle de versões Git. Foi introduzida por Vincent Driessen em 2010 e é amplamente utilizada para gerenciar o ciclo de desenvolvimento de software, especialmente em equipes que trabalham de forma colaborativa. A ideia central é definir um conjunto de regras para criar, gerenciar e mesclar branches, facilitando o fluxo de trabalho e a organização do código.
 
-![Git Flow Overview](./img/gitFlow.gif)
+![Git Flow Overview](./img/gitFlow.png)
 
 ### Como o Git Flow funciona?
 
@@ -171,7 +171,7 @@ Esse processo é especialmente útil em projetos colaborativos e em código aber
 
   - Revisão de código antes de integrar mudanças;
   - Discussão colaborativa para melhorar a qualidade do código;
-  - 0Histórico claro de alterações e melhorias.
+  - Histórico claro de alterações e melhorias.
 
 ### Issues
 
