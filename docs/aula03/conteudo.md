@@ -1,3 +1,11 @@
+!!! example "[Clique aqui](https://youtu.be/e-UbBcx_XqM) para acessar a gravação da aula Colaboração e Fluxo de Trabalho"
+
+!!! note
+
+    Infelizmente, não conseguimos gravar o início desta aula. Assim, o conteúdo começa a partir do tópico "commits" na gravação.
+    
+    Caso tenham alguma dúvida a respeito dos primeiros tópicos, nos chamem na comunidade do WhatsApp para ajudarmos vocês. <3
+
 ## Git Flow
 
 O **Git Flow** é uma metodologia de gerenciamento de ramificações (branches) em projetos que utilizam o sistema de controle de versões Git. Foi introduzida por Vincent Driessen em 2010 e é amplamente utilizada para gerenciar o ciclo de desenvolvimento de software, especialmente em equipes que trabalham de forma colaborativa. A ideia central é definir um conjunto de regras para criar, gerenciar e mesclar branches, facilitando o fluxo de trabalho e a organização do código.
@@ -135,19 +143,19 @@ Esse processo é especialmente útil em projetos colaborativos e em código aber
 
     O colaborador cria uma branch separada para trabalhar em uma nova funcionalidade ou correção de bug.
 
-    git checkout -b feature/minha-nova-funcionalidade
+    `git checkout -b feature/minha-nova-funcionalidade`
 
 ??? example "2. Fazer Alterações e Commits:""
 
     O colaborador faz alterações no código e faz os commits necessários.
 
-    git commit -m "Implementa nova funcionalidade"
+    `git commit -m "Implementa nova funcionalidade"`
 
 ??? example "3. Enviar a Branch para o Repositório Remoto:"
 
     Quando estiver pronto, ele faz o push da branch para o repositório remoto.
 
-    git push origin feature/minha-nova-funcionalidade
+    `git push origin feature/minha-nova-funcionalidade`
 
 ??? example "4. Abrir um Pull Request:"
 
