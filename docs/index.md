@@ -1,5 +1,9 @@
 ## Apresentação do Curso
 
+!!! example "Slide Completo do Curso"
+
+    [Acesse aqui!](https://drive.google.com/drive/folders/1KISV4YoVLJWypOGzxvcCJpoz-JKDo1LT?usp=drive_link)
+
 Bem-vindo(a)! É um prazer ter você participando do nosso curso <3
 
 O curso GitHub Descomplicado é um projeto de extensão oferecido pela Turma 4A do curso de Análise e Desenvolvimento de Sistemas do IFSul de Sapucaia.
