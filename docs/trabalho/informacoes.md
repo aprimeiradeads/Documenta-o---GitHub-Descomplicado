@@ -8,6 +8,8 @@ Além disso, um trabalho final (link de um GitHub Page em forma de Portfolio) qu
 
 ![Trabalho 3](./img/trabalho3.png)
 
+## Entrega
+
 !!! tip "Onde entregar o trabalho?"
 
-    ENtregue o trabalho através deste [formulário](https://forms.gle/trZCR2jVgJ2kLCHo8).
+    Entregue o trabalho através deste [formulário](https://forms.gle/trZCR2jVgJ2kLCHo8).
