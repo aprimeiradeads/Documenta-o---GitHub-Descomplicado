@@ -76,8 +76,8 @@ nav:
         - Apresentação da Aula: aula03/apresentacao.md
         - Conteúdo: aula03/conteudo.md
     - GitHub Pages: 
-        - Apresentação da Aula: aula03/apresentacao.md
-        - Conteúdo: aula03/conteudo.md
+        - Apresentação da Aula: aula04/apresentacao.md
+        - Conteúdo: aula04/conteudo.md
     - Trabalho Final do Curso: trabalho/informacoes.md
 
 markdown_extensions:
