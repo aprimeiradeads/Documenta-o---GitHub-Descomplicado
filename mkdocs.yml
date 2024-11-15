@@ -75,8 +75,10 @@ nav:
     - Colaboração e Fluxo de Trabalho: 
         - Apresentação da Aula: aula03/apresentacao.md
         - Conteúdo: aula03/conteudo.md
-    - Aula 4: 
-        - GitHub Pages: aula04/introducao.md
+    - GitHub Pages: 
+        - Apresentação da Aula: aula03/apresentacao.md
+        - Conteúdo: aula03/conteudo.md
+    - Trabalho Final do Curso: trabalho/informacoes.md
 
 markdown_extensions:
     - md_in_html
